@@ -1,6 +1,6 @@
 # CST-305: Degradation of Data
 
-Implementation of the graph for a solution to part 2 of Project 4
+Implementation of the graph for a solution to part 2 of Project 4.
 
 # Setup
 
